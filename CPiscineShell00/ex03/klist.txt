@@ -1,0 +1,5 @@
+Credentials cache: API:2C81FD30-D9D9-4169-AE76-1A1EAC5A0BBC
+        Principal: dgioia@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct  1 19:20:01 2021  Oct  2 05:19:55 2021  krbtgt/42ROMA.IT@42ROMA.IT
